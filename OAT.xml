@@ -17,7 +17,6 @@
                     desc="" />
             </filefilter>
         </filefilterlist>
-        
         <licensematcherlist>
             <licensematcher name="Khronos Group License" desc="">
                 <licensetext name="
