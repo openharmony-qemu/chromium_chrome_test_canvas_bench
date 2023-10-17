@@ -1,10 +1,11 @@
 [
     {
-        "Name": "chromium:canvas_bench",                   # 上游开源软件名全称
-        "License":         # 上游开源软件中包含的许可证信息
-        "License File":        # 许可证所在文件路径
+        "Name": "chromium:canvas_bench",
+        "License": "",
+        "License File": "",
         "Version Number": "a7b40ea5ae0239517d78845a5fc9b12976bfc732",
-        "Upstream URL": "https://chromium.googlesource.com/chromium/canvas_bench.git@a7b40ea5ae0239517d78845a5fc9b12976bfc732",   # 上游软件包发布地址
-        "Description": "Canvas是HTML5新增的组件，它就像一块幕布，可以用JavaScript在上面绘制各种图表、动画等。"           # 开源软件功能描述
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/canvas_bench.git@a7b40ea5ae0239517d78845a5fc9b12976bfc732",
+        "Description": "Canvas是HTML5新增的组件，它就像一块幕布，可以用JavaScript在上面绘制各种图表、动画等。"
     }
 ]
