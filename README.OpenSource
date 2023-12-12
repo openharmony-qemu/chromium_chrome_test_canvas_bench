@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "chromium",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "a7b40ea5ae0239517d78845a5fc9b12976bfc732",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromium/canvas_bench.git@a7b40ea5ae0239517d78845a5fc9b12976bfc732",
+        "Description": "Canvas是HTML5新增的组件，它就像一块幕布，可以用JavaScript在上面绘制各种图表、动画等。"
+    }
+]
